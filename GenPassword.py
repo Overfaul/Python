@@ -1,7 +1,6 @@
 #Python Code Generation
 
 import random
-import workwithfiles as wwf
 
 def gen():
 	'''         GENERATING...
